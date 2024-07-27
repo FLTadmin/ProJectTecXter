@@ -68,8 +68,8 @@ ul {
 }
 
 li {
-    background: #fff;
-    border: 1px solid #ddd;
+    background: #242020;
+    border: 1px solid #242020;
     border-radius: 8px;
     padding: 1.5em;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -89,7 +89,7 @@ li h2 {
 }
 
 li p {
-    color: #555;
+    color: #f7f7f7;
     line-height: 1.5;
 }
 
